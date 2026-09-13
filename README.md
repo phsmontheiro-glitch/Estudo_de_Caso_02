@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido para a disciplina de **Métodos Quantitativos para Tomada de Decisão**, com o objetivo de analisar dados relacionados à escolaridade da população brasileira.
 
-A análise utiliza técnicas de tratamento de dados, estatística descritiva e visualização de dados para identificar padrões de escolaridade, diferenças entre regiões, estados, gêneros e municípios.
+A análise utiliza técnicas de tratamento de dados, estatística descritiva e visualização de dados para identificar padrões de escolaridade e diferenças entre regiões, estados, gêneros e municípios.
 
 ---
 
@@ -43,7 +43,7 @@ Também foram calculadas medidas de **média, mediana, desvio padrão, mínimo, 
 
 ## Visualizações desenvolvidas
 
-O estudo apresenta diferentes visualizações para facilitar a interpretação dos dados:
+O estudo apresenta diferentes visualizações para facilitar a interpretação dos dados.
 
 ### 1. Escolaridade no Brasil por gênero
 
@@ -125,6 +125,31 @@ Também foram desenvolvidas visualizações para comparar o perfil educacional d
 
 ---
 
+## Como executar
+
+O projeto foi desenvolvido no **Google Colab** utilizando Python.
+
+### Passo a passo
+
+1. Acesse o arquivo [`Estudo_de_Caso_02.ipynb`](./Estudo_de_Caso_02.ipynb);
+2. Clique em **Open in Colab** ou abra o notebook diretamente no Google Colab;
+3. Certifique-se de que a planilha [`caso 2.xlsx`](./caso%202.xlsx) esteja disponível no mesmo ambiente;
+4. Execute as células do notebook na sequência.
+
+### Bibliotecas utilizadas
+
+As principais bibliotecas utilizadas no projeto são:
+
+```python
+import pandas as pd
+import numpy as np
+import plotly.graph_objects as go
+import plotly.express as px
+import matplotlib.pyplot as plt
+````
+
+---
+
 ## Estrutura do repositório
 
 ```text
@@ -134,7 +159,7 @@ Estudo-de-Caso-02/
 ├── caso 2.xlsx
 ├── README.md
 └── LICENSE
-````
+```
 
 ---
 
