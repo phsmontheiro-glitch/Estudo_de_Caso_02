@@ -171,7 +171,7 @@ Estudo-de-Caso-02/
 **Robson Otávio Queiroz Castro** —
 [@robsonotavioqueirozcastroo343-pixel](https://github.com/robsonotavioqueirozcastroo343-pixel)
 
-**Igor Jesus da Silva Tolentino** —
+**Igor Jesus da Silva Tolentino ** —
 [@igorjesusdasilvatoletntino](https://github.com/igorjesusdasilvatoletntino)
 
 ---
